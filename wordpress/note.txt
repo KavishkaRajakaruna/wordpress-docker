@@ -1,0 +1,1 @@
+Place wordpress files in this directory
