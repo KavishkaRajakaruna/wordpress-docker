@@ -1,2 +1,4 @@
 wordpress/*
 !wordpress/note.txt
+mysql/dbdata/*
+!mysql/dbdata/readme.txt
